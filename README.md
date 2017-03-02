@@ -3,16 +3,28 @@
 A poker hand consists of a combination of five playing cards, ranked in the following ascending order (lowest to highest):
 
 Rank Combination Description
+
 1 High card Highest value card
+
 2 Pair Two cards of same value
+
 3 Two pairs Two different pairs
+
 4 Three of a kind Three cards of the same value
+
 5 Straight All five cards in consecutive value order
+
 6 Flush All five cards having the same suit
+
 7 Full house Three of a kind and a Pair
+
 8 Four of a kind Four cards of the same value
+
 9 Straight flush All five cards in consecutive value order, with the same suit
+
 10 Royal Flush Ten, Jack, Queen, King and Ace in the same suit
+
+
 
 The cards are valued in the order:
 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace*

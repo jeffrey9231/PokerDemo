@@ -33,35 +33,40 @@ Hand Player 1    Hand  Player 2
 
 Winner Player 2
 
-4H 4C 6S 7S KD--2C 3S 9S 9D TD
+4H 4C 6S 7S KD<====>2C 3S 9S 9D TD
 
-Pair of Fours--Pair of Nines
+Pair of Fours<====>Pair of Nines
 
 
 Winner Player 1
 
-5D 8C 9S JS AC     2C 5C 7D 8S QH
+5D 8C 9S JS AC<====>2C 5C 7D 8S QH
 
-Highest card Ace   Highest card Queen
-
+Highest card Ace<====>Highest card Queen
 
 
 Winner Player 2
-2D 9C AS AH AC  3D 6D 7D TD QD
-Three Aces      Flush with Diamonds
+
+2D 9C AS AH AC<====>3D 6D 7D TD QD
+
+Three Aces<====>Flush with Diamonds
 
 
 
 Winner Player 1
-4 4D 6S 9H QH QC   3D 6D 7H QD QS
-Pair of Queens     Pair of Queens
-Highest card Nine  Highest card Seven
+
+4 4D 6S 9H QH QC<====>3D 6D 7H QD QS
+
+Pair of Queens Highest card Nine<====>Pair of Queens Highest card Seven
+  
 
 
 Winner Player 1
-5 2H 2D 4C 4D 4S   3C 3D 3S 9S 9D
-Full House         Full House
-With Three Fours   with Three Threes
+
+5 2H 2D 4C 4D 4S<====>3C 3D 3S 9S 9D
+
+Full House With Three Fours <====>Full House with Three Threes
+  
 
 
 Note - suits are not taken into account to break a tie for this exercise - only the value of the card determines a winner.

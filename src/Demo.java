@@ -18,14 +18,14 @@ public class Demo {
 	      
 	    try {
 	      
-//	    	FileInputStream fis = new FileInputStream(args[0]);
-//	  		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
-//	         
-//	         while ((thisLine = br.readLine()) != null) {
-//	        	 calculate(thisLine);
-//	         }       
+	    	FileInputStream fis = new FileInputStream(args[0]);
+	  		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 	         
-	    	calculate("4D 6S 9H QH QC 3D 6D 7H QD QS");
+	         while ((thisLine = br.readLine()) != null) {
+	        	 calculate(thisLine);
+	         }       
+	         
+//	    	calculate("4D 6S 9H QH QC 3D 6D 7H QD QS");
 	    	System.out.println("Player 1: "+play1Win);
 	    	System.out.println("Player 2: "+play2Win);
 	    } catch(Exception e) {

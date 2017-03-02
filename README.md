@@ -29,7 +29,7 @@ next highest cards are compared, and so on.
 
 For example:
 
-Hand Player 1    Hand  Player 2   
+Hand Player 1<====>Hand  Player 2   
 
 Winner Player 2
 

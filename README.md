@@ -32,12 +32,16 @@ For example:
 Hand Player 1    Hand  Player 2   
 
 Winner Player 2
+
 4H 4C 6S 7S KD--2C 3S 9S 9D TD
+
 Pair of Fours--Pair of Nines
 
 
 Winner Player 1
+
 5D 8C 9S JS AC     2C 5C 7D 8S QH
+
 Highest card Ace   Highest card Queen
 
 

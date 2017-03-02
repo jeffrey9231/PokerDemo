@@ -115,5 +115,5 @@ Player 1: 263
 Player 2: 237
 
 Usage:
-$java -jar my-poker-solution.jar poker-hands.txt
+$java -jar poker.jar poker-hands.txt
 

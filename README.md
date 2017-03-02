@@ -1,9 +1,5 @@
 # PokerDemo
 
-# PokerDemo
-
-Poker Hand Sorter (Engineer role)
-
 A poker hand consists of a combination of five playing cards, ranked in the following ascending order (lowest to highest):
 
 Rank Combination Description

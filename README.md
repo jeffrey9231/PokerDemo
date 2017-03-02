@@ -38,11 +38,13 @@ Winner Player 2
 Pair of Fours<====>Pair of Nines
 
 
+
 Winner Player 1
 
 5D 8C 9S JS AC<====>2C 5C 7D 8S QH
 
 Highest card Ace<====>Highest card Queen
+
 
 
 Winner Player 2

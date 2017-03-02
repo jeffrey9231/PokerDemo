@@ -36,8 +36,8 @@ For example:
 Hand Player 1    Hand  Player 2   
 
 Winner Player 2
-4H 4C 6S 7S KD   2C 3S 9S 9D TD
-Pair of Fours    Pair of Nines
+4H 4C 6S 7S KD--2C 3S 9S 9D TD
+Pair of Fours--Pair of Nines
 
 
 Winner Player 1
@@ -94,4 +94,7 @@ You will be provided a test file you can use to determine whether your solution 
 
 Player 1: 263
 Player 2: 237
+
+Usage:
+$java -jar my-poker-solution.jar poker-hands.txt
 

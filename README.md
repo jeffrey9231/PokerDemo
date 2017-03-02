@@ -31,9 +31,9 @@ For example:
 
 Hand Player 1    Hand  Player 2   
 
-Winner Player 2\n
-4H 4C 6S 7S KD--2C 3S 9S 9D TD\n
-Pair of Fours--Pair of Nines\n
+Winner Player 2
+4H 4C 6S 7S KD--2C 3S 9S 9D TD
+Pair of Fours--Pair of Nines
 
 
 Winner Player 1
